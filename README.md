@@ -21,7 +21,7 @@ For analysis, we merge the two datasets together on column 'Address' in Dataset 
 The process documentation for merger can be found in 'Workflow Documentation_Merger.pdf'
 
 Merged dataset created: Merged - Liquor Store and Criminal Incidents.xlsx
-Citation: Piparaiya, P. (2015). Merged - Liquor Store and Criminal Incidents. [Data file]. INFM600-Information-Organization. Available: https://github.com/prakritipiparaiya/INFM600-P
+Citation: Piparaiya, P. (2015). Merged - Liquor Store and Criminal Incidents. [Data file]. INFM600-Information-Organization. Available: https://github.com/piparaiyap/INFM600-P
 
 Research Question:  Does presence of liquor stores influence criminal activity in neighborhood areas?
 Presence of liquor stores (bars, restaurants, convenience stores) in residential areas can result in increased criminal activity, vandalism and in-orderly conduct. This can endanger the safety of neighborhood residents and adversely affect the quality of life of residents. The results of analysis can be used by Howard County in the following ways:
