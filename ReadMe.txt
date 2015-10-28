@@ -11,7 +11,6 @@ Additional Data Set -2: Schools - High
 Citation: Howard County GIS (2014). Schools – High. Howard County – Maryland [Map]. Retrieved from: https://data.howardcountymd.gov/InteractiveMapV3.html?Workspace=IndividualLayer&Layer=general:Schools_High&LayerName=Schools%20-%20High. Date Accessed: 10/27/15.
 Description: The data set provides geometric location of High Schools in Howard County on a map. In CSV format it includes the name of school, address, zip code and geometric coordinates.
 
-
 Analysis of Focal Dataset and Additional Dataset 1:
 
 For analysis, we merge the two datasets together on column 'Address' in Dataset 1 (or 'Location' in Dataset 2). 
